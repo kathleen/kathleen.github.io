@@ -2,7 +2,8 @@
 layout: post
 title:  "Building a Mandarin Learning App with AI - part 1"
 date:   2025-07-10 15:32:04 -0400
-categories: ai mandarin claude
+categories: ai
+tags: ai mandarin claude
 ---
 As AI tools have taken off, I've been spending a lot of my free time using them to create some greenfield side project apps. One of those  projects has been a web app for studying Mandarin. 
 

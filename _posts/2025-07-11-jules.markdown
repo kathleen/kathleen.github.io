@@ -2,7 +2,8 @@
 layout: post
 title:  "Kicking the tires on Google's Jules"
 date:   2025-07-11 09:32:04 -0400
-categories: ai jules
+categories: ai
+tags: ai jules
 ---
 In 2008, I was in my first year working as a software engineer after graduating college. My manager at TheLadders asked me if I wanted to go to a conference Google was hosting called Google I/O. Of course, I said yes- it was an opportunity to go to SFO, but more importantly, it was _Google_. I was excited to learn what new things Google was building and so despite my then-fear of flying, I agreed to go.
 
