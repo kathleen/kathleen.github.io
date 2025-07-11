@@ -63,6 +63,8 @@ After adding all of the additional files, the app worked! I did have to ask Clau
 * clearing the input after we move to the next flashcard 
 * only showing the hint if the user clicks on the hint button for the specific card they are on. 
 
+![Final version of Mandarin flashcard app](/assets/images/2025-07-10/final_app.png)
+
 You can find the source code [here](https://github.com/kathleen/mandarin-flashcards). It's been left mostly as Claude created it besides me adding some more Chinese words.  
 
 ## Takeaways
