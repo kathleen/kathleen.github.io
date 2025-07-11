@@ -22,7 +22,7 @@ Last post, I mentioned the Mandarin flashcard app I had created with Claude. I h
 
 ![Jules wrote a plan for creating a README](/assets/images/2025-07-11/jules_plan.png)
 
-The plan seemed reasonable so I approved it and Jules went off to execute it, providing updated as it worked. 
+The plan seemed reasonable so I approved it and Jules went off to execute it, providing updates as it worked. 
 
 ![](/assets/images/2025-07-11/updates.png)
 
