@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Kicking the tires on Google's Jules"
+date:   2025-07-11 09:32:04 -0400
+categories: ai jules
+---
+In 2008, I was in my first year working as a software engineer after graduating college. My manager at TheLadders asked me if I wanted to go to a conference Google was hosting called Google I/O. Of course, I said yes- it was an opportunity to go to SFO, but more importantly, it was _Google_. I was excited to learn what new things Google was building and so despite my then-fear of flying, I agreed to go.
+
+The conference was all of the things you'd expect from a tech conference of that time period- there were bean bag chairs and an afterparty featuring arcade games and a performance by Flight of the Conchords. After a couple of days in the Moscone Center, I came back to New York, super pumped about [Google Web Toolkit](https://www.gwtproject.org/) and a billion other technologies that are largely irrelevant besides Android.
+
+Ever since then, I eagerly await Google I/O and WWDC to see what's new. The announcements have gotten progressively less exciting, but alas, each year I still have hope.
+
+This year unsurprisingly everything at Google I/O was about AI. AI. *AI*. **AI!** This included the announcement of a few new tools (that frankly feel like they should be part of a larger comprehensive toolkit and not standalone items, but I digress..) like [Whisk](https://labs.google/fx/tools/whisk), [Stitch](https://stitch.withgoogle.com/), and [Jules](https://jules.google.com/).
+
+## Enter Jules
+
+Jules is an async development agent. You give it access to a Github repo and write a task you want it to do; Jules will respond with a plan and assuming you approve the plan, it can make the changes and push them to a branch for you to review. Neat.
+
+Because it's in beta, users are limited to 5 tasks a day. Even with that, for the first week or two after it was announced, it frequently would just hang, but I did get it to do a couple of things for me.
+
+Last post, I mentioned the Mandarin flashcard app I had created with Claude. I hadn't created a README so this seemed like a good task to offload to Jules. I wrote the simplest prompt possible and away it went. 
+
+![Jules wrote a plan for creating a README](/assets/images/2025-07-11/jules_plan.png)
+
+The plan seemed reasonable so I approved it and Jules went off to execute it, providing updated as it worked. 
+
+![](/assets/images/2025-07-11/updates.png)
+
+After a few minutes, it finished and told me it was ready for review. 
+
+![](/assets/images/2025-07-11/ready_for_review.png)
+
+I was able to go over to Github and review the branch. The README gave a brief explanation of the project, listed the required software to run it, and gave steps on how to run the project.
+
+![](/assets/images/2025-07-11/github.png)
+
+While it maybe included some additional info I would've left out, overall it did a solid job. I've yet to use it for anything meatier, but I plan to try it out on the mandarin-flashcards repo.
+
+
